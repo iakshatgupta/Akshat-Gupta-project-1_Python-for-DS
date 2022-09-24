@@ -2,7 +2,7 @@
 The data contains details for over 18,000 players playing in various football clubs in Europe. It contains information on age, skill rating, wages and player value, etc. The files provided are as follows:
 a) fifa.csv – data file.
 b) fifa_ variable_information.csv - information on individual variables
-## c)Final Report solution file in .ipynb format
+## c) Final Report solution file in .ipynb format
 
 
 ## Problem Statement: A new football club named ‘GL United FC’ has just been inaugurated. 
